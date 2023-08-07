@@ -1,0 +1,35 @@
+
+h1{
+    color:red;
+    font-weight: bolder;
+}
+h2{
+    color:#ec0606cc ;
+    font-weight: 900;
+    font-style:oblique;
+   
+}
+.A{
+    margin-top:1.7em;
+    font-weight:bold;
+    color:#933333;
+}
+.B{
+    letter-spacing:6px;
+     font-weight:600;
+     color:#933333;
+ }
+p{
+    color:#933333;
+    font-weight:600;
+}
+a{
+    text-decoration:none;
+    background: yellow;
+    font-style:oblique;
+    font-weight:bold;
+    color:#933333;
+}
+.C{
+    text-decoration: underline;
+}
